@@ -1,2 +1,2 @@
 # PYTHON-FOR-HACKING
-# codes that will help you to group in python 
+# codes that will help you to grow in python 
