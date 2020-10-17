@@ -1,5 +1,5 @@
 #print string
-print ("SYKON IS AWESOME")
+print ("SYKON IS oka okay")
 print (""" This is a multi 
 line string""")
 print ("This is "+"a string")
@@ -28,6 +28,7 @@ bool4 = 28*4677 == 9
 print(bool1,bool2,bool3,bool4)
 print(type(bool1))
 print(type(bool2))
+type(bool1)
 
 
 
